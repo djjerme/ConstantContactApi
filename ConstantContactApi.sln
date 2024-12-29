@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstantContactApi", "ConstantContactApi\ConstantContactApi.csproj", "{7E785015-E48F-4E6C-BBD0-3CFD82B9EDA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{263EBEA9-9882-43C9-AA36-EA8A6D736E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E785015-E48F-4E6C-BBD0-3CFD82B9EDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E785015-E48F-4E6C-BBD0-3CFD82B9EDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E785015-E48F-4E6C-BBD0-3CFD82B9EDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E785015-E48F-4E6C-BBD0-3CFD82B9EDA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263EBEA9-9882-43C9-AA36-EA8A6D736E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263EBEA9-9882-43C9-AA36-EA8A6D736E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263EBEA9-9882-43C9-AA36-EA8A6D736E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263EBEA9-9882-43C9-AA36-EA8A6D736E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C75A923D-3FF6-4835-BFAD-D642A9CCF4E4}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConstantContactApi\\ConstantContactApi.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = ConstantContactApi\\
+		SccProjectUniqueName2 = UnitTestProject1\\UnitTestProject1.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = UnitTestProject1\\
+	EndGlobalSection
+EndGlobal
